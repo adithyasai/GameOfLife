@@ -1,0 +1,13 @@
+F:\GOL\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+F:\GOL\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+F:\GOL\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+F:\GOL\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+F:\GOL\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+F:\GOL\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+D:\Projects\Personal\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+D:\Projects\Personal\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+D:\Projects\Personal\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+D:\Projects\Personal\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+D:\Projects\Personal\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+D:\Projects\Personal\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
